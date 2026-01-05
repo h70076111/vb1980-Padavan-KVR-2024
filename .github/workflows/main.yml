@@ -92,7 +92,7 @@ on:
         default: 'false'
 env:
   REPOSITORY_URL: https://github.com/h70076111vb1980-Padavan-KVR-2024.git
-  WORK_PATH: /opt/padavan-4.4
+  WORK_PATH: /opt/vb1980-Padavan-KVR-2024
   DEFAULT_FILE: ./user/shared/defaults.h
   DICT_FILE: ./user/www/dict/CN.dict
   TIME_ZONE: Asia/Shanghai
