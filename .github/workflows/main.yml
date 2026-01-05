@@ -15,7 +15,7 @@ on:
         - Diting_NEWIFI3
         - DLINK_DIR-878
         - DLINK_DIR-882
-        - FCJ_G-AX1800_Black
+        - E8820V2
         - FCJ_G-AX1800_White
         - Gee_B70
         - GHL_R-001
@@ -91,7 +91,7 @@ on:
         description: 'upload firmware to anonfiles'
         default: 'false'
 env:
-  REPOSITORY_URL: https://github.com/h70076111/padavan-4.git
+  REPOSITORY_URL: https://github.com/h70076111vb1980-Padavan-KVR-2024.git
   WORK_PATH: /opt/padavan-4.4
   DEFAULT_FILE: ./user/shared/defaults.h
   DICT_FILE: ./user/www/dict/CN.dict
@@ -137,8 +137,8 @@ jobs:
             "DLINK_DIR-882": {
               "model": "DIR-882"
             },
-            "FCJ_G-AX1800_Black": {
-              "model": "G-AX1800-B"
+            "E8820V2": {
+              "model": "E8820V2"
             },
             "FCJ_G-AX1800_White": {
               "model": "G-AX1800"
